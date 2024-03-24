@@ -1,3 +1,5 @@
+#! user/bin/env node
+
 import inquirer from "inquirer";
 for (let i = 1; i < 4; i++) {
     const numbergen = Math.floor(Math.random() * 10);
