@@ -1,7 +1,13 @@
 {
+<<<<<<< HEAD
   "name": "cli_g-game-2",
   "version": "1.0.1",
   "description": "cli g game.proj",
+=======
+  "name": "cli_gassing_ramzaan28",
+  "version": "1.0.0",
+  "description": "",
+>>>>>>> 13bf488d3aac81f854d29d98967a85cfc47dd0e4
   "main": "index.js",
   "type": "module",
   "bin": "index.js",

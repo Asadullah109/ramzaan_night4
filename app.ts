@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 #!/usr/bin/env node
+=======
+#! /user/bin/env node
+>>>>>>> 13bf488d3aac81f854d29d98967a85cfc47dd0e4
 
 import inquirer from "inquirer";
 import inquirer from "inquirer";
